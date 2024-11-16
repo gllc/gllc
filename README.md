@@ -1,50 +1,8 @@
-# mai_draw
+<p align="center">
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello+!+%F0%9F%91%8B%F0%9F%8F%BB;Here+is+my+GitHub+Profile" />
+</p>
 
-## 项目简介
+![](https://visitor-badge.glitch.me/badge?page_id=gllc.readme)
 
-`mai_draw` 是一个使用 Python 编写用于生成与舞萌DX机台上方副屏风格相似图片的工具。
-
-1. [安装](#安装)
-2. [使用示例](#项目简介)
-
-### 安装
-
-克隆项目到本地；
-
-通过[链接](https://1drv.ms/u/s!AoBHZVMZvJZscVmqRoY5ecLbst8?e=PUHXwh)下载项目的资源文件，然后将压缩包中的`out`文件夹复制到项目根目录中；
-
-在项目根目录下运行以下命令安装所需的依赖：
-
-```sh 
-pip install -r requirements.txt
-```
-
-### 示例
-
-#### 代码示例
-
-```python
-from draw import CardDraw, UserChara
-
-if __name__ == '__main__':
-    cd = CardDraw(
-        name="gllc",
-        icon=255201,
-        title=255299,
-        plate=255201,
-        frame=255201,
-        chara=[
-            UserChara(characterId=255201, level=61),
-            UserChara(characterId=255202, level=157),
-            UserChara(characterId=255203, level=604),
-            UserChara(characterId=255204, level=1376),
-            UserChara(characterId=200201, level=9999),
-        ]
-    )
-    cd.draw()
-    cd.get_image().save("example.png")
-```
-
-#### 输出结果
-
-![example.png](example.png)
+![](https://github-readme-stats.vercel.app/api?username=gllc&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=gllc&theme=transparent&hide_border=true&layout=compact&langs_count=22)
