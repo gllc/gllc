@@ -5,5 +5,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gllc.readme)
 
 ![](https://github-readme-stats.vercel.app/api?username=gllc&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=gllc&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=last_7_days)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=gllc&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gllc&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6)
